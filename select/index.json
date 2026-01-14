@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "二息歩行 (Reloaded)",
+  "base_artist": "DECO*27",
+  "createdAt": "2026-01-14T08:43:23.184171Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "二息歩行",
+      "artist": "Deco*27 feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/01_二息歩行_Deco_27_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "二息歩行",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_二息歩行_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "二息歩行(Reloaded)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/03_二息歩行(Reloaded)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "二息歩行",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/04_二息歩行_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "二息歩行",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/05_二息歩行_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "二息歩行",
+      "artist": "DECO*27 feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/06_二息歩行_DECO_27_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "二息歩行",
+      "artist": "DECO*27/初音ミク",
+      "has_synced": false,
+      "path": "select/07_二息歩行_DECO_27_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Two Breaths Walking - 二息歩行 (Reloaded)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/08_Two_Breaths_Walking_-_二息歩行_(Reloaded)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "二息歩行 (feat. 初音ミク)",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/09_二息歩行_(feat._初音ミク)_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "二息歩行 [Live]",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/10_二息歩行_[Live]_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "二息歩行 / DECO*27 Feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/11_二息歩行___DECO_27_Feat._初音ミク_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "二息歩行 (feat. 初音ミク)",
+      "artist": "DECO*27, Hatsune Miku",
+      "has_synced": false,
+      "path": "select/12_二息歩行_(feat._初音ミク)_DECO_27,_Hatsune_Miku.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "二息歩行",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_二息歩行_DECO_27.txt"
+    }
+  ]
+}
